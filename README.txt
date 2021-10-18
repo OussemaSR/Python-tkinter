@@ -1,0 +1,1 @@
+Copier le dossier "images" sous la repartition C:/
